@@ -27,8 +27,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://your-solution-url.com)
-- [Live Site URLgit
-](https://your-live-site-url.com)
+- [Live Site URL](https://cr1deg0.github.io/FE_Mentor_Social_Proof_Section/)
 
 ## My process
 
