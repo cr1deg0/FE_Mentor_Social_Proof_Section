@@ -2,6 +2,8 @@
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+<img width="1372" alt="Social Section" src="https://github.com/cr1deg0/FE_Mentor_Social_Proof_Section/assets/86016298/11fff475-8478-4673-bd9a-4a260d4ee038">
+
 ## Table of contents
 
 - [Overview](#overview)
